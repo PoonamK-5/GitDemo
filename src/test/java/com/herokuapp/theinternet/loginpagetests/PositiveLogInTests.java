@@ -56,6 +56,7 @@ public class PositiveLogInTests {
 						+ expectedSuccessMessage + "\nactualSuccessMessage: " + actualSuccessMessage);
 
 		// Close browser
+                System.out.println("Close driver check");
 		driver.quit();
 	}
 }

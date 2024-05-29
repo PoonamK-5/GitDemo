@@ -75,6 +75,8 @@ public class NegativeLogInTests {
 	@AfterMethod
 	private void tearDown() {
 		System.out.println("Close driver");
+                System.out.println("Close driver check");
+                System.out.println("Close driver check");
 		// Close browser
 		driver.quit();
 	}
