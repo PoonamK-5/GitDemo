@@ -24,6 +24,7 @@ public class NegativeLogInTests {
                 System.out.println("Create driver check");
 System.out.println("Starting logIn test");
 System.out.println("Starting logIn test");
+System.out.println("Starting logIn test");
 
 		switch (browser) {
 		case "chrome":
